@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonParsing</string>
+    <string name="url">https://reqres.in/api/</string>
+</resources>
